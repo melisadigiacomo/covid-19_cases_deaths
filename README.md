@@ -20,7 +20,7 @@ Data was collected from [Our World in Data](https://github.com/owid/covid-19-dat
 
 # Cases vs deaths in different countries
 
-It is observed how the plot started with cases lower than 20k but many deaths attributed to COVID-19. By the end of 2021 and begining of 2022, values are below 100 and in some countries near 0 in y-axis showing the high contagiousness of the Omicron variant circulating and causing many cases and the good effectiveness of the vaccines reducing significantly the deaths. It is also noticed that COVID-19 arrived first in Europe or North America countries. Besides, the countries in opposite hemispheres show different behaviors in the coldest or warmest months. For example, Argentina shows the highest number of cases in May - June 2021, while northern countries such as United Kingdom or the United States show the highest in December 2020 and January 2021.
+It is observed how the plot started with cases lower than 20k but many deaths attributed to COVID-19. By the end of 2021 and begining of 2022, values in the y-axis are below 100 and in some countries near 0 showing the high contagiousness of the Omicron variant circulating and causing many cases and the good effectiveness of the vaccines reducing significantly the deaths. It is also noticed that COVID-19 arrived first in Europe or North America countries. Besides, the countries in opposite hemispheres show different behaviors in the coldest or warmest months. For example, Argentina shows the highest number of cases in May - June 2021, while northern countries such as United Kingdom or the United States show the highest in December 2020 and January 2021.
 
 ![covid](images/covid.gif)
 
@@ -40,7 +40,7 @@ Here we could observe the effectiveness of vaccines in the last period of time.
 
 # Argentina
 
-Here we observe the dates when different COVID-19 waves happened in Argentina. First one in October 2020 and second one in May - June 2021, both with high number of deaths. The third wave is already happening, in January 2022, but it is well observed the low number of deaths in this case thanks to vaccines effectiveness.
+In this plot the dates when different COVID-19 waves happened in Argentina are shown. First one in October 2020 and second one in May - June 2021, both with high number of deaths. The third wave is already happening, in January 2022, but it is well observed the low number of deaths in this case thanks to vaccines effectiveness.
 
 ![Argentina_cases_deaths](images/Argentina_cases_deaths.png)
 
